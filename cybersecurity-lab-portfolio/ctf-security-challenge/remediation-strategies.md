@@ -1,0 +1,1 @@
+# Remediation Strategies\n\nStrategies and recommendations for remediating the vulnerabilities and security issues discovered in this CTF challenge.
